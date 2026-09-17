@@ -1,0 +1,10 @@
+# See https://github.com/github/linguist
+docs/** linguist-vendored
+*.bat text eol=crlf
+*.woff binary
+*.html linguist-vendored
+*.ico binary
+Cargo.lock linguist-generated
+build/* linguist-vendored
+src/**/*.tsx linguist-detectable
+src/*.ts linguist-detectable
