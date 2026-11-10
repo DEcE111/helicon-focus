@@ -1,0 +1,8 @@
+*.log
+.next/
+node_modules/
+.cache/
+npm-debug.log*
+.env.local
+*.tgz
+yarn-error.log*
